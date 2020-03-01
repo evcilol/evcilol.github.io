@@ -1,0 +1,173 @@
+.isim{
+    text-align: center;
+    font-size: 30px;
+    color: orangered;
+    margin-top: ;
+  
+
+}
+
+.özet{
+    text-align: center;
+    font-size: 25px;
+    color: #eeeeee;
+    font-style: oblique;
+
+
+
+
+}
+
+
+.cv{
+    text-align: center;
+    color:rgba(0, 0, 0, 0.836);
+
+
+}
+
+
+.arayüz{
+   
+    height: 470px;
+    width: 600px;
+    background-color: #393e464d;
+    margin-top: 100px;
+    position: fixed;
+    position: relative;
+    margin: auto;
+    border-radius: 3%;
+    box-shadow: 4px 4px 8px 2px #373b41d0;
+    border-color: #000000d0;
+}
+
+
+
+
+.top-side{
+    text-align: center;
+    margin-top: 60px;
+
+
+}
+
+.insta{
+    
+    padding: 7px 18px;
+
+
+
+}
+
+.birinci{
+
+    color: #eeeeee;
+    font-style: oblique;
+
+}
+
+
+
+.left-side{
+    text-align: center;
+    
+   
+
+}
+.right-side{
+
+ 
+    text-align: center;
+    
+}
+
+.arayüz-cv{
+    height: 470px;
+    width: 600px;
+    background-color: #393e464d;
+    margin-top: 100px;
+    position: relative;
+    margin: auto;
+    border-radius: 3%;
+    box-shadow: 4px 4px 8px 2px #3b3f44d0;
+    border-color: #000000d0;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri' , 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+}
+
+
+.body {
+    background-color: #222831
+    
+
+}
+
+
+
+
+footer {
+    text-align: center;
+    background-color: #393e46;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+
+    
+}
+
+a:link{text-decoration:none;}
+a:active{color: white}
+a:hover{color: orangered}
+a:visited{color:orangered;}
+a{color:orangered;}
+
+
+.CvS{
+    font-size: 35px;
+    margin-top: 20%;
+
+}
+
+.tps{
+    height: 50px;
+    width: 100.8%;
+    background-color:#393e46;
+    margin-top: -10px;
+    margin-left: -7px;
+    text-align: center;
+}
+
+
+.upper1{
+    color: rgb(10, 9, 9);
+
+
+}
+
+.upper2{
+    color: orangered;
+
+
+}
+
+.upper3{
+    color: rgb(10, 8, 8);
+
+
+}
+
+.upper4{
+    color: rgb(19, 18, 16);
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri' , 'Trebuchet MS', sans-serif;
+
+}
+b{
+    font-size: 20px;
+    color: rgb(5, 5, 5);
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri' , 'Trebuchet MS', sans-serif;
+
+
+}
+
