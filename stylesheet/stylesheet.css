@@ -34,7 +34,7 @@
     background-color: #393e464d;
     position: relative;
     margin: auto;
-    margin-top: 100px;
+    margin-top: 80px;
     border-radius: 3%;
     box-shadow: 4px 4px 8px 2px #373b41d0;
     border-color: #000000d0;
@@ -46,9 +46,6 @@
 
 .top-side{
     text-align: center;
-    margin-top: 60px;
-
-
 }
 
 .insta{
@@ -82,12 +79,13 @@
 }
 
 .arayüz-cv{
-    height: 470px;
+    height: 500px;
     width: 600px;
     background-color: #393e464d;
-    position: relative;
-    margin: auto;
+    position: absolute; 
+    left: 34%;
     border-radius: 3%;
+    margin-top: 100px;
     box-shadow: 4px 4px 8px 2px #3b3f44d0;
     border-color: #000000d0;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri' , 'Trebuchet MS', sans-serif;
@@ -95,10 +93,12 @@
 }
 
 
-.body {
+body {
     background-color: #222831;
-    margin: 0px;
+    margin: 0;
     padding: 0;
+    width: 100%;
+    height: 100%;
     
 
 }
@@ -128,17 +128,16 @@ a{color:orangered;}
 .CvS{
     font-size: 35px;
     margin-top: 200px;
-    position: relative;
-
 }
 
 .tps{
     height: 50px;
     width: 100%;
+    position: fixed;
     background-color:#393e46;
     left: 0;
     text-align: center;
-    position: fixed;
+
 }
 
 
